@@ -1,5 +1,5 @@
-In test_grasp_lib_io directory you may found test data
-Unzip them before to use
+In test_grasp_lib_io.tgz you may found test data
+Unpack them before to use
 
 Needs grdi2d library
 
