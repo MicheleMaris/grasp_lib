@@ -3,7 +3,10 @@ Unpack them before to use
 
 Needs 
 
-  grdi2d library : git clone https://github.com/MicheleMaris/grid2d.git
-  pyfits 
+  grdi2d library : 
+  
+      git clone https://github.com/MicheleMaris/grid2d.git
+  
+      pyfits 
   
 
