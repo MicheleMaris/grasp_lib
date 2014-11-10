@@ -224,7 +224,7 @@ class stokesCubeMap :
       import numpy as np
       from collections import OrderedDict
       import pyfits
-      import dict2fits
+      from SmartTable import dict2fits
       import time
       import copy
       #o=pyfits.open(fitsname)
